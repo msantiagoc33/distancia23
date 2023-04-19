@@ -2,7 +2,7 @@
 /**
  * Clase que se conecta a la BBDD y selecciona clientes por paises.
  * @author Manuel Santiago Cabeza
- * @version 1.1 
+ * @version 1.2 
  */
 class Clientes {
 
